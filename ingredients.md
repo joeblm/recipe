@@ -1,3 +1,5 @@
+Let's begin!
+
 List of ingredients
 
 Butter
@@ -7,3 +9,5 @@ Flour
 Egg
 Vanilla Extract
 Baking Soda
+
+Enjoy my recipe!
